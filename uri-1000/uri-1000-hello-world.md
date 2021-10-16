@@ -1,9 +1,10 @@
-# URI Online Judge | 1000
+URI Online Judge | 1000
 
-**Hello World!**
+# Hello World!
+
 Jean Bez, URI Online Judge 🇧🇷 Brasil
 
-**Timelimit: 1**
+Time limit: 1
 
 ---
 
